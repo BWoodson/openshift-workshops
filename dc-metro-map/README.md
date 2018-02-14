@@ -19,6 +19,8 @@ This lab code requires access to api.mapbox.com in order to run.
 ## License
 Under the terms of the [MIT][4].
 
+test
+
 
 [1]: https://developers.openshift.com/en/getting-started-overview.html
 [2]: https://docs.openshift.com/enterprise/latest/welcome/index.html
